@@ -1,0 +1,17 @@
+.first {
+    background-color: lightpink;
+    font-family: Verdana, Dejavu sans, sans-serif"
+}
+.power {
+    font-size: 24px;
+}
+
+#second {
+    font-size: 36px;
+    color: blue;
+}
+#fourth {
+    background-color: rgb(52, 236, 52);
+    font-size: 24px;
+    font-weight: bold;
+}
